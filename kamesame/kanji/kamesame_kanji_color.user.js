@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Change kanji background color to a color that doesn't hurt my eyes
+// @name         Kanji color change
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Change kanji background color to a color that doesn't hurt my eyes
+// @author       @gabtemp
 // @match        https://www.kamesame.com/*
 // @icon         https://www.google.com/s2/favicons?domain=kamesame.com
 // @grant        none
